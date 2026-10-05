@@ -1,3 +1,3 @@
 # semestrialnipraceapp3.B
-téma: Lucina 
+téma: Opice
 barva: rudá
